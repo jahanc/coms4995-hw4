@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'It was only when he had reached the entrance hall that he made a sudden movement, drew his foot from the living room, and rushed forward in a panic.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I beheld the wretch—the miserable monster whom I had created.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Pew, he cried, they've been before us. Someones turned the chest outalow and aloft.',
   'example4':
-      'I am happy.'
+      'It flew from right to left, and back again, almost in one ticking of a watch, and every instant seemed on the point of snapping into splinters.'
 };
 
 function status(statusText) {
