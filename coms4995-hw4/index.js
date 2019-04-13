@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'I beheld the wretch—the miserable monster whom I had created.',
   'example3':
-      'Pew, he cried, they've been before us. Someones turned the chest outalow and aloft.',
+      'Pew, he cried, they ve been before us. Someones turned the chest outalow and aloft.',
   'example4':
       'It flew from right to left, and back again, almost in one ticking of a watch, and every instant seemed on the point of snapping into splinters.'
 };
